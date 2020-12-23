@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Jsut for Test On git hub"
